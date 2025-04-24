@@ -37,7 +37,7 @@ This application provides a simple interface for generating and editing AI-creat
    yarn start
    ```
 
-The application will open in your browser at http://localhost:3000.
+The application will open in your browser at http://localhost:5173.
 
 ## Usage
 -Click on text areas to edit the content directly
